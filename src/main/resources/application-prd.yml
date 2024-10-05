@@ -1,0 +1,9 @@
+ambiente: PRD
+logging:
+    file:
+        name: portal.log
+    level:
+        root: ERROR
+sysout: false
+
+

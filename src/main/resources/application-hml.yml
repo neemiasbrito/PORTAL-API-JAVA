@@ -1,0 +1,8 @@
+ambiente: HML
+logging:
+  file:
+    name: portal.log
+  level:
+    root: INFO
+sysout: true
+
